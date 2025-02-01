@@ -20,7 +20,7 @@ The **Dictionary App** is a simple web-based application that allows users to se
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/srivaishnavi-4/dictionary-app.git
+   git clone https://github.com/srivaishnavi-4/Dictionaryapp.git
    ```
 2. Navigate to the project folder:
    ```bash
